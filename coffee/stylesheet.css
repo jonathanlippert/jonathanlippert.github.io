@@ -1,0 +1,31 @@
+h1 {
+	font-weight: bold;
+	font-family: arial;
+	font-variant: 18px;
+	color: #271300;
+
+}
+
+
+#top-menu {
+	color:#E6CC80;
+	background-color: #271300;
+	font-size: 16px;
+}
+
+#site-footer {
+	
+	font-family: trebuchet;
+	color:#E6CC80;
+	background-color: #271300;
+}
+
+a {
+	color: #E6CC80;
+	font-family: trebuchet;
+	font-size: 16px;
+}
+
+p {font-family: trebuchet;
+	font-size: 18px;
+	color: #271300}
